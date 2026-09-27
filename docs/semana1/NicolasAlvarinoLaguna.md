@@ -4,7 +4,7 @@
 
 **Usuario de GitHub:** nicolasalvarino-l
 
-**Repositorio:** [stellar-escrow-hub](https://github.com/nicolasalvarino-l/stellar-escrow-hub)
+**Repositorio:** [+](https://github.com/nicolasalvarino-l/stellar-escrow-hub)
 
 ---
 
